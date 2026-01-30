@@ -8,3 +8,4 @@ Otras formas de resolverlo eran:
 - No me acuerdo el nombre de las otras maneras
 - Gracias
 
+Este fue el primer problema visto en clase
